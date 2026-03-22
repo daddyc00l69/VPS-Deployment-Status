@@ -1,0 +1,5 @@
+{
+  "name": "VPS Deployment Status",
+  "description": "A full-stack dashboard to monitor VPS health, API connectivity, and server uptime.",
+  "requestFramePermissions": []
+}
